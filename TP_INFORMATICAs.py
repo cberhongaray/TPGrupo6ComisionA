@@ -63,7 +63,7 @@ def subMenu():
 
 #-----------Agregar datos-----------#
 def agregarRegistros():
-      
+    g
 
 
 
@@ -77,11 +77,17 @@ while Menu != 5:
             print('Debes cargar los datos antes de trabajar con ellos')
         else:
             if subMenu() == 1:
+                f
             elif subMenu() == 2:
+                f
             elif subMenu() == 3:
+                f
             elif subMenu() == 4:
+                f
     elif Menu() == 3:
+        f
     elif Menu() == 4:
+        f
        
         
 
