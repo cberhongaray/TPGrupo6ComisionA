@@ -1,6 +1,5 @@
 #-------------------------------Definir librerias-------------------------------------#
 import csv
-
 from random import *
 #-------------------------------Definicion de funciones-------------------------------#
 #-----------Matriz-----------#    
@@ -69,7 +68,8 @@ def agregarRegistros():
 
 
 #-------------------------------Programa principal-------------------------------#
-while Menu() != 5: 
+Menu = Menu()
+while Menu != 5: 
     if Menu() == 1:
         cargarArchivo()
     elif Menu() == 2:
