@@ -78,11 +78,12 @@ while Menu != 5:
             print('Debes cargar los datos antes de trabajar con ellos')
         else:
             if subMenu() == 1:
-                f
+                fuck
             elif subMenu() == 2:
-                f
+                fuck
             elif subMenu() == 3:
-                f
+                fuck
+                
             elif subMenu() == 4:
                 f
     elif Menu() == 3:
