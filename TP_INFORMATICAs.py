@@ -69,6 +69,7 @@ def agregarRegistros():
 
 #-------------------------------Programa principal-------------------------------#
 Menu = Menu()
+
 while Menu != 5: 
     if Menu() == 1:
         cargarArchivo()
